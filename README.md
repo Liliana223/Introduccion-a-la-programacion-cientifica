@@ -1,5 +1,6 @@
  Introduccion-a-la-programacion-cientifica
 Desarrollo de la actividad grupal de introduccion a la programacion cientifica
+![Imagen en 3D de KP](Imagen/Klebsiella.jpg)
 
 # Revisión de las herramientas omicas y bioinformaticas para la prediccion de la resistencia bacteriana de *Klebsiella pneumoniae*
 
@@ -24,9 +25,9 @@ El uso de herramientas ómicas y bioinformáticas, específicamente QIIME2, perm
 - Identificar y clasificar genes de resistencia antibiótica presentes en las secuencias genómicas utilizando métodos de clasificación disponibles en QIIME2 
 
 ## 3. Justificación 
-
-
 La resistencia bacteriana de *Klebsiella pneumoniae* representa una amenaza significativa para la salud global. La integración de herramientas ómicas y bioinformáticas, como QIIME2, puede proporcionar un enfoque holístico para la predicción y monitoreo de la resistencia, facilitando la implementación de estrategias más efectivas de control y tratamiento. 
+
+
 =======
 
 ## 4. Metodología 
