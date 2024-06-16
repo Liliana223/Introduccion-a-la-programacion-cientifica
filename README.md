@@ -99,7 +99,7 @@ qiime feature-classifier classify-sklearn \
   --o-classification taxonomy.qza 
 ## 5. Resultados Esperados 
 
-Identificación de genes de resistencia predominantes en **Klebsiella pneumoniae**. 
+Identificación de genes de resistencia predominantes en *Klebsiella pneumoniae*. 
 
 Evaluación de la efectividad de QIIME2 en la predicción de la resistencia bacteriana. 
 
@@ -107,5 +107,5 @@ Recomendaciones para la implementación de herramientas ómicas y bioinformátic
 
 ## 6. Conclusión 
 
-Este estudio proporcionará una revisión integral de las herramientas ómicas y bioinformáticas disponibles para predecir la resistencia bacteriana en **Klebsiella pneumoniae**, destacando el potencial de QIIME2 como una plataforma versátil para el análisis de datos de microbioma en este contexto. 
+Este estudio proporcionará una revisión integral de las herramientas ómicas y bioinformáticas disponibles para predecir la resistencia bacteriana en *Klebsiella pneumoniae*, destacando el potencial de QIIME2 como una plataforma versátil para el análisis de datos de microbioma en este contexto. 
 >>>>>>> Metodologia
