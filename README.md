@@ -1,21 +1,21 @@
  Introduccion-a-la-programacion-cientifica
 Desarrollo de la actividad grupal de introduccion a la programacion cientifica
 
-# Revisión de las herramientas omicas y bioinformaticas para la prediccion de la resistencia bacteriana de Klebsiella pneumoniae
-<<<<<<< HEAD
-La resistencia bacteriana es un problema creciente de salud pública, y Klebsiella pneumoniae es una de las bacterias Gram-negativas que ha desarrollado resistencia a múltiples antibióticos, incluyendo los carbapenémicos. Esta situación demanda el desarrollo de herramientas precisas para predecir y monitorear la resistencia bacteriana. Las herramientas ómicas y bioinformáticas han mostrado un gran potencial en este ámbito. QIIME2 (Quantitative Insights Into Microbial Ecology) es una plataforma bioinformática ampliamente utilizada para el análisis de datos de microbioma, que puede adaptarse para investigar la resistencia bacteriana
+# Revisión de las herramientas omicas y bioinformaticas para la prediccion de la resistencia bacteriana de *Klebsiella pneumoniae*
+
+La resistencia bacteriana es un problema creciente de salud pública, y *Klebsiella pneumoniae* es una de las bacterias Gram-negativas que ha desarrollado resistencia a múltiples antibióticos, incluyendo los carbapenémicos. Esta situación demanda el desarrollo de herramientas precisas para predecir y monitorear la resistencia bacteriana. Las herramientas ómicas y bioinformáticas han mostrado un gran potencial en este ámbito. QIIME2 (Quantitative Insights Into Microbial Ecology) es una plataforma bioinformática ampliamente utilizada para el análisis de datos de microbioma, que puede adaptarse para investigar la resistencia bacteriana
 
 ## Hipotesis 
 
-El uso de herramientas ómicas y bioinformáticas, específicamente QIIME2, permite una predicción precisa y eficaz de la resistencia bacteriana en Klebsiella pneumoniae, facilitando la identificación de genes de resistencia y la correlación con metadatos clínicos y epidemiológicos. 
+El uso de herramientas ómicas y bioinformáticas, específicamente QIIME2, permite una predicción precisa y eficaz de la resistencia bacteriana en *Klebsiella pneumoniae*, facilitando la identificación de genes de resistencia y la correlación con metadatos clínicos y epidemiológicos. 
 
 ## 2. Objetivo General 
 
-- Revisar y evaluar las herramientas ómicas y bioinformáticas disponibles para la predicción de la resistencia bacteriana en Klebsiella pneumoniae, utilizando QIIME2 como plataforma de análisis. 
+- Revisar y evaluar las herramientas ómicas y bioinformáticas disponibles para la predicción de la resistencia bacteriana en *Klebsiella pneumoniae*, utilizando QIIME2 como plataforma de análisis. 
 
 ## 2.1 Objetivos especificos  
 
-- Compilar un Conjunto de datos Integral de Secuencias Genómicas y Metadatos de Klebsiella pneumoniae: 
+- Compilar un Conjunto de datos Integral de Secuencias Genómicas y Metadatos de *Klebsiella pneumoniae*: 
 
 - Implementar la Plataforma QIIME2 para el Análisis de Secuencias Genómicas 
 
@@ -25,18 +25,19 @@ El uso de herramientas ómicas y bioinformáticas, específicamente QIIME2, perm
 
 ## 3. Justificación 
 
-La resistencia bacteriana de Klebsiella pneumoniae representa una amenaza significativa para la salud global. La integración de herramientas ómicas y bioinformáticas, como QIIME2, puede proporcionar un enfoque holístico para la predicción y monitoreo de la resistencia, facilitando la implementación de estrategias más efectivas de control y tratamiento. 
+
+La resistencia bacteriana de *Klebsiella pneumoniae* representa una amenaza significativa para la salud global. La integración de herramientas ómicas y bioinformáticas, como QIIME2, puede proporcionar un enfoque holístico para la predicción y monitoreo de la resistencia, facilitando la implementación de estrategias más efectivas de control y tratamiento. 
 =======
-La resistencia bacteriana es un problema creciente de salud pública, y Klebsiella pneumoniae es una de las bacterias Gram-negativas que ha desarrollado resistencia a múltiples antibióticos, incluyendo los carbapenémicos. Esta situación demanda el desarrollo de herramientas precisas para predecir y monitorear la resistencia bacteriana. Las herramientas ómicas y bioinformáticas han mostrado un gran potencial en este ámbito. QIIME2 (Quantitative Insights Into Microbial Ecology) es una plataforma bioinformática ampliamente utilizada para el análisis de datos de microbioma, que puede adaptarse para investigar la resistencia bacteriana.
+
 ## 4. Metodología 
 
 ### 4.1 Recolección de Datos 
 
-Bases de Datos: Se recopilarán secuencias genómicas de Klebsiella pneumoniae de bases de datos públicas como NCBI, PATRIC y ResFinder. 
+**Bases de Datos:** Se recopilarán secuencias genómicas de *Klebsiella pneumoniae* de bases de datos públicas como NCBI, PATRIC y ResFinder. 
 
-Metadatos: Se incluirán datos sobre el origen de las muestras, fenotipos de resistencia y métodos de aislamiento. 
+**Metadatos:** Se incluirán datos sobre el origen de las muestras, fenotipos de resistencia y métodos de aislamiento. 
 
-4.2 Análisis con QIIME2 
+### 4.2 Análisis con QIIME2 
 
 Instalación y Configuración de QIIME2: Instalación de QIIME2 en un entorno Conda y configuración para análisis. 
 
@@ -97,7 +98,7 @@ qiime feature-classifier classify-sklearn \
   --o-classification taxonomy.qza 
 ## 5. Resultados Esperados 
 
-Identificación de genes de resistencia predominantes en Klebsiella pneumoniae. 
+Identificación de genes de resistencia predominantes en **Klebsiella pneumoniae**. 
 
 Evaluación de la efectividad de QIIME2 en la predicción de la resistencia bacteriana. 
 
@@ -105,5 +106,5 @@ Recomendaciones para la implementación de herramientas ómicas y bioinformátic
 
 ## 6. Conclusión 
 
-Este estudio proporcionará una revisión integral de las herramientas ómicas y bioinformáticas disponibles para predecir la resistencia bacteriana en Klebsiella pneumoniae, destacando el potencial de QIIME2 como una plataforma versátil para el análisis de datos de microbioma en este contexto. 
+Este estudio proporcionará una revisión integral de las herramientas ómicas y bioinformáticas disponibles para predecir la resistencia bacteriana en **Klebsiella pneumoniae**, destacando el potencial de QIIME2 como una plataforma versátil para el análisis de datos de microbioma en este contexto. 
 >>>>>>> Metodologia
