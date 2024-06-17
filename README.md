@@ -4,7 +4,7 @@ Desarrollo de la actividad grupal de introduccion a la programacion cientifica
 
 # Revisión de las herramientas omicas y bioinformaticas para la prediccion de la resistencia bacteriana de *Klebsiella pneumoniae*
 
-La resistencia bacteriana es un problema creciente de salud pública, y *Klebsiella pneumoniae* es una de las bacterias Gram-negativas que ha desarrollado resistencia a múltiples antibióticos, incluyendo los carbapenémicos. Esta situación demanda el desarrollo de herramientas precisas para predecir y monitorear la resistencia bacteriana. Las herramientas ómicas y bioinformáticas han mostrado un gran potencial en este ámbito. QIIME2 (Quantitative Insights Into Microbial Ecology) es una plataforma bioinformática ampliamente utilizada para el análisis de datos de microbioma, que puede adaptarse para investigar la resistencia bacteriana
+La resistencia bacteriana es un problema creciente de salud pública,que reviste gran importancia, especialmente en los ambientes hospitalarios.*Klebsiella pneumoniae* es una de las bacterias Gram-negativas que ha desarrollado resistencia a múltiples antibióticos, incluyendo los carbapenémicos, generando infecciones de dificil tratamiento, con afecciones en el tracto urinario, pulmones, sepsis, tejidos blandos y área quirúrgica. Esta situación demanda el desarrollo de herramientas precisas para predecir y monitorear la resistencia bacteriana. Las herramientas ómicas y bioinformáticas han mostrado un gran potencial en este ámbito. QIIME2 (Quantitative Insights Into Microbial Ecology) es una plataforma bioinformática ampliamente utilizada para el análisis de datos de microbioma, que puede adaptarse para investigar la resistencia bacteriana
 
 ## Hipotesis 
 
@@ -114,5 +114,6 @@ patients infected with carbapenem-resistant Klebsiella pneumoniae. Annals of
 Clinical Microbiology and Antimicrobials, 16(1), 18. 
 https://doi.org/10.1186/s12941-017-0191-3 .
 3. Hernández Marta, Quijada Narciso M., Lázaro David Rodríguez, Eiros José María. Aplicación de la secuenciación masiva y la bioinformática al diagnóstico microbiológico clínico. Rev. argent. microbiol.  [Internet]. 2020  Jun [citado  2024  Jun  17] ;  52( 2 ): 101-110. Disponible en: http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S0325-75412020000200101&lng=es.  http://dx.doi.org/10.1016/j.ram.2019.06.003.
-Bokulich, N. A., Kaehler, B. D., Rideout, J. R., Dillon, M., Bolyen, E., Knight, R., … Gregory Caporaso, J. (2018). Optimizing taxonomic classification of marker-gene amplicon sequences with QIIME 2’s q2-feature-classifier plugin. Microbiome, 6(1), 90. https://doi.org/10.1186/s40168-018-0470-z
+4. Bokulich, N. A., Kaehler, B. D., Rideout, J. R., Dillon, M., Bolyen, E., Knight, R., … Gregory Caporaso, J. (2018). Optimizing taxonomic classification of marker-gene amplicon sequences with QIIME 2’s q2-feature-classifier plugin. Microbiome, 6(1), 90. https://doi.org/10.1186/s40168-018-0470-z
+5. Echeverri Toro Lina María, Cataño Correa Juan Carlos. Klebsiella pneumoniae como patógeno intrahospitalario: epidemiología y resistencia. Iatreia  [Internet]. 2010  Sep [cited  2024  June  17] ;  23( 3 ): 240-249. Available from: http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-07932010000300006&lng=en.
 
