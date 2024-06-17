@@ -1,10 +1,8 @@
+**María Isabel García Sejas**,**Astrid LIliana Vargas Sanchez**
+
+Desarrollo de la actividad grupal de introducción a la programación cientifica
+
 ![Imagen en 3D de KP](Imagen/Klebsiella.jpg)
-
-Datos de los estudiantes
-**María Isabel García Sejas**
-**Astrid LIliana Vargas Sanchez**
-
-Desarrollo de la actividad grupal de introduccion a la programacion cientifica
 
 # Revisión de las herramientas omicas y bioinformaticas para la prediccion de la resistencia bacteriana de *Klebsiella pneumoniae*
 
