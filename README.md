@@ -1,10 +1,14 @@
- Introduccion-a-la-programacion-cientifica
-Desarrollo de la actividad grupal de introduccion a la programacion cientifica
 ![Imagen en 3D de KP](Imagen/Klebsiella.jpg)
+
+Datos de los estudiantes
+**María Isabel García Sejas**
+**Astrid LIliana Vargas Sanchez**
+
+Desarrollo de la actividad grupal de introduccion a la programacion cientifica
 
 # Revisión de las herramientas omicas y bioinformaticas para la prediccion de la resistencia bacteriana de *Klebsiella pneumoniae*
 
-La resistencia bacteriana es un problema creciente de salud pública,que reviste gran importancia, especialmente en los ambientes hospitalarios.*Klebsiella pneumoniae* es una de las bacterias Gram-negativas que ha desarrollado resistencia a múltiples antibióticos, incluyendo los carbapenémicos, generando infecciones de dificil tratamiento, con afecciones en el tracto urinario, pulmones, sepsis, tejidos blandos y área quirúrgica. Esta situación demanda el desarrollo de herramientas precisas para predecir y monitorear la resistencia bacteriana. Las herramientas ómicas y bioinformáticas han mostrado un gran potencial en este ámbito. QIIME2 (Quantitative Insights Into Microbial Ecology) es una plataforma bioinformática ampliamente utilizada para el análisis de datos de microbioma, que puede adaptarse para investigar la resistencia bacteriana
+La resistencia bacteriana es un problema creciente de salud pública,que reviste gran importancia, especialmente en los ambientes hospitalarios. *Klebsiella pneumoniae* es una de las bacterias Gram-negativas que ha desarrollado resistencia a múltiples antibióticos, incluyendo los carbapenémicos, generando infecciones de dificil tratamiento, con afecciones en el tracto urinario, pulmones, sepsis, tejidos blandos y área quirúrgica. Esta situación demanda el desarrollo de herramientas precisas para predecir y monitorear la resistencia bacteriana. Las herramientas ómicas y bioinformáticas han mostrado un gran potencial en este ámbito. QIIME2 (Quantitative Insights Into Microbial Ecology) es una plataforma bioinformática ampliamente utilizada para el análisis de datos de microbioma, que puede adaptarse para investigar la resistencia bacteriana
 
 ## Hipotesis 
 
