@@ -1,4 +1,4 @@
-**María Isabel García Sejas**,**Astrid LIliana Vargas Sanchez**
+**María Isabel García Sejas**, **Astrid LIliana Vargas Sanchez**
 
 Desarrollo de la actividad grupal de introducción a la programación cientifica
 
@@ -6,7 +6,7 @@ Desarrollo de la actividad grupal de introducción a la programación cientifica
 
 # Revisión de las herramientas omicas y bioinformaticas para la prediccion de la resistencia bacteriana de *Klebsiella pneumoniae*
 
-La resistencia bacteriana representa un desafio significativo en la salud pública,particularmente en enternos hospitalarios. *Klebsiella pneumoniae* es una de las bacterias Gram-negativas que ha desarrollado resistencia a múltiples antibióticos, incluyendo los carbapenémicos. Esta resistencia complica el traramiento de infecciones que afectan diversas partes del cuerpo, desde el tracto urinario hasta los pulmones y tejidos blandos. Esta situación demanda el desarrollo de herramientas precisas para predecir y monitorear la resistencia bacteriana. Las herramientas ómicas y bioinformáticas han mostrado un gran potencial en este ámbito. QIIME2 (Quantitative Insights Into Microbial Ecology) es una plataforma bioinformática ampliamente utilizada para el análisis de datos de microbioma, que puede adaptarse para investigar la resistencia bacteriana.
+La resistencia bacteriana representa un desafio significativo en la salud pública, particularmente en entornos hospitalarios. *Klebsiella pneumoniae* es una de las bacterias Gram-negativas que ha desarrollado resistencia a múltiples antibióticos, incluyendo los carbapenémicos. Esta resistencia complica el traramiento de infecciones que afectan diversas partes del cuerpo, desde el tracto urinario hasta los pulmones y tejidos blandos. Esta situación demanda el desarrollo de herramientas precisas para predecir y monitorear la resistencia bacteriana. Las herramientas ómicas y bioinformáticas han mostrado un gran potencial en este ámbito. QIIME2 (Quantitative Insights Into Microbial Ecology) es una plataforma bioinformática ampliamente utilizada para el análisis de datos de microbioma, que puede adaptarse para investigar la resistencia bacteriana.
 
 ## Hipotesis 
 
