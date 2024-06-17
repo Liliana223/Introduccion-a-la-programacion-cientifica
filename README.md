@@ -27,9 +27,6 @@ El uso de herramientas ómicas y bioinformáticas, específicamente QIIME2, perm
 ## 3. Justificación 
 La resistencia bacteriana de *Klebsiella pneumoniae* representa una amenaza significativa para la salud global. La integración de herramientas ómicas y bioinformáticas, como QIIME2, puede proporcionar un enfoque holístico para la predicción y monitoreo de la resistencia, facilitando la implementación de estrategias más efectivas de control y tratamiento. 
 
-
-=======
-
 ## 4. Metodología 
 
 ### 4.1 Recolección de Datos 
@@ -111,5 +108,11 @@ Este estudio proporcionará una revisión integral de las herramientas ómicas y
 
 ## 7. Bibliografia
 
->>>>>>> Metodologia
+1. Rubio A, Jimenez J, Pérez-Pulido AJ. Assessment of selection pressure exerted on genes from complete pangenomes helps to improve the accuracy in the prediction of new genes. Brief Bioinform. 2022 Feb 2;. doi: 10.1093/bib/bbac010
+2. Xu, L., Sun, X., & Ma, X. (2017). Systematic review and meta-analysis of mortality of 
+patients infected with carbapenem-resistant Klebsiella pneumoniae. Annals of 
+Clinical Microbiology and Antimicrobials, 16(1), 18. 
+https://doi.org/10.1186/s12941-017-0191-3 .
+3. Hernández Marta, Quijada Narciso M., Lázaro David Rodríguez, Eiros José María. Aplicación de la secuenciación masiva y la bioinformática al diagnóstico microbiológico clínico. Rev. argent. microbiol.  [Internet]. 2020  Jun [citado  2024  Jun  17] ;  52( 2 ): 101-110. Disponible en: http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S0325-75412020000200101&lng=es.  http://dx.doi.org/10.1016/j.ram.2019.06.003.
+Bokulich, N. A., Kaehler, B. D., Rideout, J. R., Dillon, M., Bolyen, E., Knight, R., … Gregory Caporaso, J. (2018). Optimizing taxonomic classification of marker-gene amplicon sequences with QIIME 2’s q2-feature-classifier plugin. Microbiome, 6(1), 90. https://doi.org/10.1186/s40168-018-0470-z
 
