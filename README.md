@@ -108,4 +108,8 @@ Recomendaciones para la implementación de herramientas ómicas y bioinformátic
 ## 6. Conclusión 
 
 Este estudio proporcionará una revisión integral de las herramientas ómicas y bioinformáticas disponibles para predecir la resistencia bacteriana en *Klebsiella pneumoniae*, destacando el potencial de QIIME2 como una plataforma versátil para el análisis de datos de microbioma en este contexto. 
+
+## 7. Bibliografia
+
 >>>>>>> Metodologia
+
