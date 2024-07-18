@@ -1,6 +1,6 @@
 **María Isabel García Sejas**, **Astrid LIliana Vargas Sanchez**
 
-Desarrollo de la actividad grupal de introducción a la programación cientifica
+Desarrollo de la actividad grupal de introducción a la programación cientifica: "Crear un repositorio github. Control de versiones"
 
 ![Imagen en 3D de KP](Imagen/Klebsiella.jpg)
 
